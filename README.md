@@ -39,4 +39,5 @@ python-sql-sales-analysis/
 ├── sales_data.csv     # Sales dataset
 ├── results.md         # Final analytical output & insights
 └── README.md          # Project documentation
-```md
+
+```
